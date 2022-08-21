@@ -22,7 +22,7 @@ Which CSS Properties / Topics That I Must Studying in the Future?
 * Overflow
 * background-repeat
 
-And by the way, I also learned how to use git and github with this tutorial video but the video has Turkish language => https://www.youtube.com/watch?v=7foV53lJhVQ
+And by the way, I also learned how to use GIT and GitHub with this tutorial video but the video has Turkish language => https://www.youtube.com/watch?v=7foV53lJhVQ
 
 I didn't make any tutorial video but FreecodeCamp did. This is the direct link to the video => https://www.youtube.com/watch?v=SR5GxoFhIAU
 
